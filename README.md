@@ -1,7 +1,7 @@
 # m-color
 图的m着色问题，通过canvas实现图的m着色问题的图形化表示，使用java实现图的m着色算法
 
-![image]("github.com/say-hello-user/m-color/@6}{O`8F6CZ6NEGQHSRH15Q.png")
+![image]("https://github.com/say-hello-user/m-color/blob/master/%406%7D%7BO%608F6CZ6NEGQHSRH15Q.png")
 
 ## 图的m着色问题是指下述两类问题
 
