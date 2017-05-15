@@ -1,6 +1,8 @@
 # m-color
 图的m着色问题，通过canvas实现图的m着色问题的图形化表示，使用java实现图的m着色算法
 
+![image]("github.com/say-hello-user/m-color/@6}{O`8F6CZ6NEGQHSRH15Q.png")
+
 ## 图的m着色问题是指下述两类问题
 
 1.给定无环图G=（V,E），用m种颜色为图中的每条边着色，要求每条边着一种颜色，并使相邻的两条边有着不同的颜色，这个问题称为图的边着色问题。
